@@ -20,12 +20,14 @@ MVVM is the ideal choice when:
 
 ## 📂 Folder Structure
 <!-- TREEVIEW START -->
+```bash
 ├── lib/
 │  ├── data/           # Repositories, API providers, Models
 │  ├── viewmodels/     # Business logic & State management
 │  ├── views/          # UI Screens and Widgets
 │  ├── core/           # Constants, Themes, Utilities
 └── main.dart       # App entry point
+```
 <!-- TREEVIEW END -->
 
 ## 🛠️ Setup & Installation
